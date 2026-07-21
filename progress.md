@@ -1,8 +1,30 @@
 # Progress Tracker
 
+## Current Week
+
+Week 0
+
+## DSA
+
+- Arrays ⏳
+- Strings ⏳
+- Hashing ⏳
+- Trees ⏳
+
 ## LeetCode
-Solved: 0/700
+
+Solved: 0 / 700
 
 ## Codeforces
-Rating: 0
+
+Rating: Newbie
+
 Contests: 0
+
+## Projects
+
+Completed: 0 / 15
+
+## Books
+
+Completed: 0 / 12
