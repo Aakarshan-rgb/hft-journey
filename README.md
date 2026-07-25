@@ -20,7 +20,7 @@ Current Status
 
 - Week: 0
 - Current Topic: Setup
-- LeetCode Solved: 0
+- LeetCode Solved: 3
 - Codeforces Rating: Newbie
 
 ---
