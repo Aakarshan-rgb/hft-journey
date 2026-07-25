@@ -13,7 +13,7 @@ Week 0
 
 ## LeetCode
 
-Solved: 0 / 700
+Solved: 3 / 700
 
 ## Codeforces
 
