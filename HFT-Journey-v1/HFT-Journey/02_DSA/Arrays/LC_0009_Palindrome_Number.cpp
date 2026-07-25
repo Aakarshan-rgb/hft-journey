@@ -18,3 +18,32 @@ public:
         return false;
     }
 };
+/*
+==================================================
+Problem: LC 9 - PAlindrome numbers
+
+Difficulty: Easy
+
+Topic: Arrays
+
+Pattern: Brute Force
+
+Time Complexity: O(n)
+
+Space Complexity: O(1)
+
+Status: Solved
+
+Revision:
+R1:
+R2:
+R3:
+
+What I Learned:
+- Brute force approach
+- long long for big data input
+
+Date:
+25 July 2026
+==================================================
+*/
