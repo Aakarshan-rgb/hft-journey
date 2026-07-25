@@ -11,3 +11,33 @@ public:
        return {};
     }
 };
+/*
+==================================================
+Problem: LC 1 - Two Sum
+
+Difficulty: Easy
+
+Topic: Arrays
+
+Pattern: Brute Force
+
+Time Complexity: O(n²)
+
+Space Complexity: O(1)
+
+Status: Solved
+
+Revision:
+R1:
+R2:
+R3:
+
+What I Learned:
+- Brute force approach
+- Nested loops
+- Need HashMap later for O(n)
+
+Date:
+25 July 2026
+==================================================
+*/
